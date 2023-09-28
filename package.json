@@ -1,5 +1,20 @@
 {
-  "name": "fuckiy",
-  "version": "0.0.1",
-  "author": "John Pham <johnphammail@gmail.com>"
+  "name": "fuckify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnPhamous/fuckify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnPhamous/fuckify/issues"
+  },
+  "homepage": "https://github.com/JohnPhamous/fuckify#readme"
 }
